@@ -1,2 +1,0 @@
-welcome to devops
-Git is cool
